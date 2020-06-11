@@ -12,9 +12,8 @@ The following features are delivered out of the box in this repo, you are just o
 - Vue
 - Vue router
 - Vuex
-- Vue Class Component
-- Typescript
 - PWA - service worker
+- BootstrapVue
 - SASS
 - babel
 - Webpack bundling
