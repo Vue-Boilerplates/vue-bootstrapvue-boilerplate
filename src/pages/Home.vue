@@ -3,7 +3,7 @@
     <Navbar />
     <b-jumbotron
       header="Vue Boilerplates"
-      lead="vue-boilerplate-bootstrapvue"
+      lead="vue-bootstrapvue-boilerplate"
       header-tag="h2"
       fluid
       class="m-0 p-0 p-3"
